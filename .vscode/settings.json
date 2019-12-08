@@ -1,0 +1,6 @@
+{
+    "editor.formatOnType": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.endWithNewline": true
+}
